@@ -1,11 +1,11 @@
 import React from 'react';
-import JokesApp from './JokesApp';
+import JokeList from './JokeList';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
-      <JokesApp />
+      <JokeList />
     </div>
   );
 }
