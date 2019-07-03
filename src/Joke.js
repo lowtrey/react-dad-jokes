@@ -36,7 +36,6 @@ class Joke extends React.Component {
       return 'em em-angry'
     }
   }
-
   render() {
     return(
       <div className='Joke'>
